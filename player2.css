@@ -1,0 +1,21 @@
+.plr
+{
+    border:1px solid hsl(69, 85%, 79%);
+    
+    background-color: salmon;
+    
+}
+.col-1 img{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border: 1px solid rgb(179, 169, 169);
+}
+.player-config{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+*{
+    margin:0;
+}

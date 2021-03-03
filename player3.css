@@ -1,0 +1,29 @@
+.player-div
+{
+    box-shadow: 0 0 20px black;
+    display: flex;
+    flex-direction: row;
+    width: 350px;
+   
+}
+.album-img img
+{
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    
+}
+.album-play-controls
+{
+    display: flex;
+    flex-direction: row;
+   
+    justify-content: space-around;
+}
+*{
+    font-family: "Comic Sans Ms";
+}
+.album-controls
+{
+    
+}
